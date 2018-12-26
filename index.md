@@ -1,3 +1,5 @@
 ### Harrison's Website
 
-## lul
+Hi! I'm a person.
+
+[Projects](/projects.html)
