@@ -1,4 +1,4 @@
-### Harrison's Website
+## Harrison Wong
 
 Hi! I'm a person.
 
