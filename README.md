@@ -1,6 +1,6 @@
-## My personal website
+## Personal website
 
-Uses markdown files to build pages in the site
+Uses markdown files and [Jekyll](https://jekyllrb.com/) to build pages in the site.
 
 <!---
 ## Welcome to GitHub Pages
