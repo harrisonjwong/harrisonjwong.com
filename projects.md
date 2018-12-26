@@ -15,4 +15,8 @@
 
 * Green line (personal)
 
-* Plan-it (Stulin)
+* Plan-it (Stulin iOS)
+
+* Tic-Tac-Toe (Stulin iOS)
+
+* Game of Life (Stulin iOS)
