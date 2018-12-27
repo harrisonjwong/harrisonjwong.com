@@ -10,4 +10,5 @@ description: Hello
 header_pages: 
   - projects.md
   - resume.md
+  - interests.md
   - contact.md
