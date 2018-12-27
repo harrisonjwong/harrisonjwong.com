@@ -6,3 +6,8 @@ github_username: harrisonjwong
 linkedin_username: harrisonjwong
 
 description: Hello
+
+header_pages: 
+  - projects.md
+  - resume.md
+  - contact.md
