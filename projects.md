@@ -1,4 +1,4 @@
-**Projects**
+# Projects
 
 * Alcohol robot (Cornerstone)
 
