@@ -1,5 +1,7 @@
 ## Personal website
 
+[Click here to visit](https://harrisonjwong.com).
+
 Uses markdown files and [Jekyll](https://jekyllrb.com/) to build pages in the site.
 
 <!---
