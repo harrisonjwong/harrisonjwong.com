@@ -1,5 +1,7 @@
 # Projects
 
+make pages for some of these
+
 * Alcohol robot (Cornerstone)
 
 * Robotic arm (Embedded)
