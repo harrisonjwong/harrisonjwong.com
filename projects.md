@@ -8,16 +8,14 @@ make pages for some of these
 
 * Space invaders (Fundies 1)
 
-* Apples (Fundies 1 - lab)
-
 * Flood it (Fundies 2)
 
 * Mazes (Fundies 2)
 
 * Green line (personal)
 
-* Plan-it (Stulin iOS)
+* Plan-it (iOS)
 
-* Tic-Tac-Toe (Stulin iOS)
+* Tic-Tac-Toe (iOS)
 
-* Game of Life (Stulin iOS)
+* Game of Life (iOS)
