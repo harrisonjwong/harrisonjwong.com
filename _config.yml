@@ -8,7 +8,4 @@ github_username: harrisonjwong
 linkedin_username: harrisonjwong
 
 header_pages: 
-  - projects.md
-  - resume.md
-  - interests.md
   - contact.md
