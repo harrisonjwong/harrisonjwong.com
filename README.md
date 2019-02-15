@@ -1,8 +1,12 @@
-## Personal website
+## harrisonjwong.com
 
-[Click here to visit](https://harrisonjwong.com).
+### Personal website
 
-Uses markdown files and [Jekyll](https://jekyllrb.com/) to build pages in the site.
+[Link](https://harrisonjwong.com).
+
+Static webpage written in HTML and CSS (in about 2 late-night hours with lots of borrowed internet content).
+
+Legacy pages use markdown files and [Jekyll](https://jekyllrb.com/).
 
 <!---
 ## Welcome to GitHub Pages
