@@ -4,7 +4,7 @@
 
 [Link](https://harrisonjwong.com)
 
-Static webpage written in HTML and CSS (in about 2 late-night hours with lots of "borrowed" internet content).
+Static webpage written in HTML and CSS.
 
 Legacy pages use markdown files and [Jekyll](https://jekyllrb.com/).
 
